@@ -8,5 +8,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base:'https://sajadparcham.github.io/sajjadparcham.ir/'
 });
 
