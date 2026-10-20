@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base:'https://github.com/sajadparcham/sajjadparcham.ir',
+  base:'/sajjadparcham/',
 })
